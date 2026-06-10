@@ -1,0 +1,18 @@
+uvicorn==0.31.1
+fastapi==0.115.13
+sqlalchemy[asyncio]==2.0.41
+asyncpg==0.30.0
+pyhumps==3.8.0 # string utilities
+pyjwt==2.10.1
+urllib3==2.2.3
+requests==2.32.4
+python-dotenv==1.1.0
+loguru==0.7.3
+alembic==1.16.2
+email-validator==2.2.0
+python-jose[cryptography]==3.4.0
+passlib[bcrypt]==1.7.4
+httpx==0.24.1
+python-multipart==0.0.19
+aiofiles==23.2.1
+pydantic-settings==2.9.1

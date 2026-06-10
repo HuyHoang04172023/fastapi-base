@@ -1,0 +1,3 @@
+from controllers.public_controllers import public_router
+from controllers.auth_controllers import auth_router
+from controllers.admin_controllers import admin_router
